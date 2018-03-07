@@ -125,7 +125,7 @@ AddOutputFilter chunkFilter
 			<Item Name="Test.vi" Type="VI" URL="../Test.vi"/>
 		</Item>
 		<Item Name="Deadband.vi" Type="VI" URL="../Deadband.vi"/>
-		<Item Name="Control 1.ctl" Type="VI" URL="../../../2018-PowerUp-Tom/2018 Robot Project Tom/Control 1.ctl"/>
+		<Item Name="Control 1.ctl" Type="VI" URL="../Control 1.ctl"/>
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
